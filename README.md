@@ -130,14 +130,7 @@ df.plot(rot=90)
 
 
 
-
-    <AxesSubplot:xlabel='date'>
-
-
-
-
-    
-![png](output_13_1.png)
+![png](https://github.com/Robert-W2019/sqlalchemy-challenge/blob/main/Output/output_13_1.png?raw=true)
     
 
 
@@ -273,14 +266,8 @@ plt.tight_layout
 
 
 
-
-    <function matplotlib.pyplot.tight_layout(*, pad=1.08, h_pad=None, w_pad=None, rect=None)>
-
-
-
-
     
-![png](output_19_1.png)
+![png](https://github.com/Robert-W2019/sqlalchemy-challenge/blob/main/Output/output_19_1.png?raw=true)
     
 
 
